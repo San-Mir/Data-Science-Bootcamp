@@ -7,5 +7,5 @@
 - Software Development Tools Git, Bash and Pytest
 - PostgreSQL Database
 - Data Visualization with Matplotlib and Seaborn
-- AWS and Docker for Data Engineering & Architecture
+- AWS and Docker for Data Engineering 
 - Machine Learning with Scikit-learn and TensorFlow/Keras
